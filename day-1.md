@@ -1,5 +1,7 @@
 # Learning Markdown 
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## You know why?
 ## Bcz why not?
 
